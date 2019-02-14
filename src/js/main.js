@@ -1,0 +1,2 @@
+// Custom
+//= ./scripts/custom.js
